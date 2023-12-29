@@ -36,7 +36,7 @@ $ redis-cli -h localhost -p 6379
 
 
 #### 2번 방법으로 진행해 RedisTemplete 활용하여 RedisUtils 클래스 생성
-> RedisUtils 클래스는 com.project.lettuce.service 패키지 안에 있음
+> RedisUtils 클래스는 com.project.lettuce.service 패키지 안에 있으며, controller/service만 사용하여 프로젝트 개발
 
 1) opsForValue	: Strings를 쉽게 Serialize/Deserialize 해주는 interface
 2) opsForList	: List를 쉽게 Serialize/Deserialize 해주는 interface
