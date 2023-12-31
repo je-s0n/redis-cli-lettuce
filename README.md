@@ -1,3 +1,11 @@
+## [Lettuce](https://github.com/lettuce-io/lettuce-core)란?
+- 고성능(high-performance), 확장 가능(scalable), 스레드 안전한(thread-safe) Redis Client
+- 동기, 비동기, 리액티브 프로그래밍 모델 모두 지원
+- Netty 프레임워크 위에 빌드된 비동기 이벤트 기반 네트워크 애플리케이션 프레임워크
+- 다중 연결을 처리하기 위해 디자인
+- 강력하고 유연한 API 를 제공
+<br/>
+
 ## Redis 설치 및 접속 방법
 > 사용 PC : Macbook M2 Pro 13
 
